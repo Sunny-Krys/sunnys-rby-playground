@@ -55,7 +55,10 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		mod: "gen1stadium0",
 		searchShow: false,
 		ruleset: ['Standard', 'Team Preview'],
-		banlist: ['Uber']
+		banlist: ['Uber', 'Disc',
+			'Nidoking + Fury Attack + Thrash', 'Exeggutor + Poison Powder + Stomp', 'Exeggutor + Sleep Powder + Stomp',
+			'Exeggutor + Stun Spore + Stomp', 'Jolteon + Focus Energy + Thunder Shock', 'Flareon + Focus Energy + Ember',
+		],
 	},
 	{
 		name: "[Gen 1] NC 1997",
@@ -69,6 +72,15 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Uber'],
 	},
 	{
+		name: "[Gen 1] NC 1998",
+		mod: 'gen1stadium0',
+		ruleset: [
+			'Picked Team Size = 3',  'Min Level = 1', 'Max Level = 30', 
+			'Obtainable', 'Team Preview', 'Stadium Sleep Clause', 'Freeze Clause', 'Species Clause', 'Nickname Clause', 'Cancel Mod', 'NC 1998 Move Legality',
+		],
+		banlist: ['Disc'],
+	},
+/*	{
 		name: "[Gen 1] Random Battle",
 		mod: 'gen1',
 		team: 'random',
@@ -156,7 +168,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		],
 		banlist: ['Mew', 'Mewtwo', 'Bind', 'Clamp', 'Explosion', 'Fire Spin', 'Self-Destruct', 'Wrap'],
 	},
-	{
+*/	{
 		name: "[Gen 1] Custom Game",
 		mod: 'gen1',
 		searchShow: false,
