@@ -1,7 +1,7 @@
-Stadium
+SpaceWorld 1997 Demo
 ====================
 
-This mod inherits from stadium, which inherets from gen 1, which inherets from gen 2.
+This mod inherits from gen 2.
 
 List of major changes:
 
