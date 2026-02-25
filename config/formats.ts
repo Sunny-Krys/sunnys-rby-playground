@@ -74,11 +74,20 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 1] NC 1998",
 		mod: 'gen1stadium0',
+		searchShow: false,	
 		ruleset: [
 			'Picked Team Size = 3',  'Min Level = 1', 'Max Level = 30', 
 			'Obtainable', 'Team Preview', 'Stadium Sleep Clause', 'Freeze Clause', 'Species Clause', 'Nickname Clause', 'Cancel Mod', 'NC 1998 Move Legality',
 		],
 		banlist: ['Disc'],
+	},
+	{
+		name: "[Gen 2] First Pokemon Champions Tournament",
+		mod: 'gen2',
+		searchShow: false,
+		ruleset: ['Obtainable', 'Species Clause', 'Nickname Clause', 'Cancel Mod', 'NC 2000 Move Legality', 'Time Capsule Clause', 'HP Percentage Mod', 'Event Moves Clause'],
+		banlist: ['Bulbasaur', 'Ivysaur', 'Venusaur', 'Charmander', 'Charmeleon', 'Charizard', 'Squirtle', 'Wartortle', 'Blastoise', 
+			'Omanyte', 'Omastar', 'Kabuto', 'Kabutops', 'Mewtwo', 'Mew', 'Zapdos', 'Moltres', 'Articuno', 'Celebi', 'All Items'],
 	},
 /*	{
 		name: "[Gen 1] Random Battle",
