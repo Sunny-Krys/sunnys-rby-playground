@@ -28,7 +28,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 1] Tradebacks OU",
 		desc: `RBY OU with movepool additions from the Time Capsule.`,
-		mod: 'gen1tradeback',
+		mod: 'gen1',
 		searchShow: false,
 		ruleset: ['[Gen 1] OU', 'Allow Tradeback'],
 	},
