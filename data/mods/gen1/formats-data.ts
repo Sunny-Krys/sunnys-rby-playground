@@ -1,429 +1,429 @@
 export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormatsDataTable = {
 	bulbasaur: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	ivysaur: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	venusaur: {
-		tier: "OU",
+		tier: "PU",
 	},
 	charmander: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	charmeleon: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	charizard: {
-		tier: "OU",
+		tier: "NU",
 	},
 	squirtle: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	wartortle: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	blastoise: {
-		tier: "OU",
+		tier: "NU",
 	},
 	caterpie: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	metapod: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	butterfree: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	weedle: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	kakuna: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	beedrill: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	pidgey: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	pidgeotto: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	pidgeot: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	rattata: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	raticate: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	spearow: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	fearow: {
-		tier: "OU",
+		tier: "NU",
 	},
 	ekans: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	arbok: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	pikachu: {
-		tier: "OU",
+		tier: "LC",
 	},
 	raichu: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	sandshrew: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	sandslash: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	nidoranf: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	nidorina: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	nidoqueen: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	nidoranm: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	nidorino: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	nidoking: {
-		tier: "OU",
+		tier: "PU",
 	},
 	clefairy: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	clefable: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	vulpix: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	ninetales: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	jigglypuff: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	wigglytuff: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	zubat: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	golbat: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	oddish: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	gloom: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	vileplume: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	paras: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	parasect: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	venonat: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	venomoth: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	diglett: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	dugtrio: {
-		tier: "OU",
+		tier: "UU",
 	},
 	meowth: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	persian: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	psyduck: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	golduck: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	mankey: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	primeape: {
-		tier: "OU",
+		tier: "PU",
 	},
 	growlithe: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	arcanine: {
-		tier: "OU",
+		tier: "NU",
 	},
 	poliwag: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	poliwhirl: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	poliwrath: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	abra: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	kadabra: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	alakazam: {
 		tier: "OU",
 	},
 	machop: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	machoke: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	machamp: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	bellsprout: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	weepinbell: {
-		tier: "Disc",
+		tier: "NFE",
 	},
 	victreebel: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	tentacool: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	tentacruel: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	geodude: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	graveler: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	golem: {
-		tier: "OU",
+		tier: "NU",
 	},
 	ponyta: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	rapidash: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	slowpoke: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	slowbro: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	magnemite: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	magneton: {
-		tier: "OU",
+		tier: "NU",
 	},
 	farfetchd: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	doduo: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	dodrio: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	seel: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	dewgong: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	grimer: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	muk: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	shellder: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	cloyster: {
 		tier: "OU",
 	},
 	gastly: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	haunter: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	gengar: {
 		tier: "OU",
 	},
 	onix: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	drowzee: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	hypno: {
 		tier: "UU",
 	},
 	krabby: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	kingler: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	voltorb: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	electrode: {
-		tier: "OU",
+		tier: "NU",
 	},
 	exeggcute: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	exeggutor: {
 		tier: "OU",
 	},
 	cubone: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	marowak: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	hitmonlee: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	hitmonchan: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	lickitung: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	koffing: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	weezing: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	rhyhorn: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	rhydon: {
-		tier: "Disc",
+		tier: "OU",
 	},
 	chansey: {
 		tier: "OU",
 	},
 	tangela: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	kangaskhan: {
-		tier: "OU",
+		tier: "UU",
 	},
 	horsea: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	seadra: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	goldeen: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	seaking: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	staryu: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	starmie: {
 		tier: "OU",
 	},
 	mrmime: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	scyther: {
-		tier: "OU",
+		tier: "PU",
 	},
 	jynx: {
 		tier: "OU",
 	},
 	electabuzz: {
-		tier: "Disc",
+		tier: "UU",
 	},
 	magmar: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	pinsir: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	tauros: {
 		tier: "OU",
 	},
 	magikarp: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	gyarados: {
 		tier: "UU",
 	},
 	lapras: {
-		tier: "OU",
+		tier: "UU",
 	},
 	ditto: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	eevee: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	vaporeon: {
-		tier: "OU",
+		tier: "NU",
 	},
 	jolteon: {
 		tier: "OU",
 	},
 	flareon: {
-		tier: "OU",
+		tier: "ZU",
 	},
 	porygon: {
-		tier: "Disc",
+		tier: "PU",
 	},
 	omanyte: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	omastar: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	kabuto: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	kabutops: {
-		tier: "Disc",
+		tier: "NU",
 	},
 	aerodactyl: {
-		tier: "OU",
+		tier: "NU",
 	},
 	snorlax: {
 		tier: "OU",
@@ -438,19 +438,19 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "UU",
 	},
 	dratini: {
-		tier: "Disc",
+		tier: "LC",
 	},
 	dragonair: {
-		tier: "Disc",
+		tier: "ZU",
 	},
 	dragonite: {
-		tier: "OU",
+		tier: "UU",
 	},
 	mewtwo: {
-		tier: "Disc",
+		tier: "Uber",
 	},
 	mew: {
-		tier: "Disc",
+		tier: "Uber",
 	},
 	missingno: {
 		isNonstandard: "Unobtainable",
