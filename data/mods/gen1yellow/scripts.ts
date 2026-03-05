@@ -1,4 +1,4 @@
 export const Scripts: ModdedBattleScriptsData = {
-	gen: 8,
-	inherit: 'gen8',
+	inherit: 'gen1',
+	gen: 1,
 };
