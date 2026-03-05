@@ -215,10 +215,12 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	slowpoke: {
 		inherit: true,
 		baseStats: { hp: 90, atk: 65, def: 65, spa: 40, spd: 35, spe: 15 },
+		evos: ["Slowbro"],
 	},
 	slowbro: {
 		inherit: true,
 		baseStats: { hp: 95, atk: 75, def: 110, spa: 80, spd: 65, spe: 30 },
+		evos: ["Slowking"],
 	},
 	magnemite: {
 		inherit: true,
@@ -233,6 +235,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	farfetchd: {
 		inherit: true,
 		baseStats: { hp: 52, atk: 65, def: 55, spa: 58, spd: 58, spe: 60 },
+	},
+	doduo: {
+		inherit: true,
+		prevo: "Chiks",
+		evoLevel: 16,
 	},
 	dodrio: {
 		inherit: true,
@@ -422,5 +429,137 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		baseStats: { hp: 160, atk: 110, def: 65, spa: 65, spd: 100, spe: 30 },
 	},
-	
+	chikorita: {
+		inherit: true,
+		baseStats: { hp: 55, atk: 40, def: 45, spa: 75, spd: 50, spe: 40 },
+	},
+	bayleef: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 45, def: 50, spa: 45, spd: 50, spe: 50 },
+	},
+	meganium: {
+		inherit: true,
+		baseStats: { hp: 70, atk: 65, def: 60, spa: 55, spd: 50, spe: 60 },
+	},
+	hoothoot: {
+		inherit: true,
+		types: ["Flying"],
+		baseStats: { hp: 65, atk: 55, def: 40, spa: 55, spd: 50, spe: 65 },
+		evos: null,
+	},
+	noctowl: {
+		inherit: true,
+		types: ["Flying"],
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+		prevo: null,
+		evoLevel: null,
+	},
+	mareep: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	flaaffy: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+		evoLevel: 16,
+	},
+	ampharos: {
+		inherit: true,
+		baseStats: { hp: 55, atk: 45, def: 45, spa: 70, spd: 50, spe: 50 },
+		evoLevel: 32,
+	},
+	trifox: {
+		inherit: true,
+		evos: ["Vulpix"],
+	},
+	tangel: {
+		inherit: true,
+		evos: ["Tangela"],
+	},
+	gelania: {
+		inherit: true,
+		prevo: "Tangela",
+		evoLevel: 44,
+	},
+	mantine: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	qwilfish: {
+		inherit: true,
+		types: ["Water"],
+		baseStats: { hp: 55, atk: 80, def: 50, spa: 60, spd: 50, spe: 45 },
+		evos: ["Numpuff"],
+	},
+	numpuff: {
+		inherit: true,
+		prevo: "Qwilfish",
+		evoLevel: 18,
+	},
+	pichu: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	cleffa: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	igglybuff: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	quagsire: {
+		inherit: true,
+		types: ["Water"],
+		baseStats: { hp: 50, atk: 45, def: 50, spa: 75, spd: 50, spe: 50 },
+		prevo: null,
+	},
+	natu: {
+		inherit: true,
+		types: ["Flying", "Psychic"],
+		baseStats: { hp: 45, atk: 50, def: 50, spa: 50, spd: 50, spe: 60 },
+	},
+	xatu: {
+		inherit: true,
+		types: ["Flying", "Psychic"],
+		baseStats: { hp: 55, atk: 50, def: 50, spa: 70, spd: 50, spe: 80 },
+	},
+	golppy: {
+		inherit: true,
+		evos: ["Goldeen"],
+	},
+	marill: {
+		inherit: true,
+		baseStats: { hp: 45, atk: 50, def: 55, spa: 55, spd: 50, spe: 40 },
+		evos: null,
+	},
+	crobat: {
+		inherit: true,
+		baseStats: { hp: 60, atk: 65, def: 50, spa: 45, spd: 50, spe: 85 },
+		evoLevel: 44,
+	},
+	para: {
+		inherit: true,
+		evos: ["Paras"],
+	},
+	spinarak: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	ariados: {
+		inherit: true,
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+		evoLevel: 23
+	},
+	skarmory: {
+		inherit: true,
+		types: ["Flying", "Steel"],
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+	},
+	animon: {
+		inherit: true,
+		prevo: "Ditto",
+		evoType: "trade",
+		evoItem: "Metal Coat",
+	},
 };
