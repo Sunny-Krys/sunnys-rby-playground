@@ -20290,4 +20290,15 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Undiscovered"],
 	},
+	leafeo: {
+		num: -6037,
+		name: "Leafeo",
+		types: ["Grass"],
+		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
+		abilities: { 0: "" },
+		heightm: 0,
+		weightkg: 0,
+		color: "Green",
+		eggGroups: ["Undiscovered"],
+	},
 };
